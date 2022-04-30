@@ -1,3 +1,4 @@
+![alt text](https://github.com/user16-et/Twitter-Data-Analysis/blob/main/dashboard_screenshot.PNG)
 # Twitter-Data-Analysis
 
 ### So here are the bare minimum requirement for completing this task
